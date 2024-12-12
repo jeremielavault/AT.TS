@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"path": "Modules"
+		},
+		{
+			"path": "."
+		},
+		{
+			"path": "../Utilitaires"
+		}
+	],
+	"settings": {}
+}
